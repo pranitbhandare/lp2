@@ -1,0 +1,42 @@
+Steps for all Practical
+
+Assignment 2a:-
+git --version
+git init
+git .add
+git status
+git remote add origin "Git hub link"
+git commit -m "Give any mess"
+git status
+git push -u origin master
+
+
+Assignment 2c:-
+step 1-install node js
+npm --version //to verify nodejs install or not
+step-2-install angular 
+npm install -g @angular/cli@latest g for (genarate)
+step-3-create angular project
+ng new PART-c 
+write y
+select css
+after writing code 
+compile the program
+cd PART-c
+ng serve
+
+Assignment 3A:-
+first step:-
+npm init 
+then create the index.js copy the code
+then create public folder in public folder create index.html file and copy the code
+second Step:- 
+npm install express --save
+third Step:-
+node index.js //to run the program on sever we use this command
+
+Assignment 4A:-
+first download jquery
+go to the jquery website and copy the cdn links
+
+
