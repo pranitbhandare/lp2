@@ -1,0 +1,9 @@
+2B COMMAND
+docker -v
+docker images
+docker ps
+copy link on OpenJDK
+docker images
+docker run --name JAVA -it -id OpenJDK
+docker ps
+docker exec -it JAVA jshell
